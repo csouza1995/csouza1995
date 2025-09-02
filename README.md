@@ -2,7 +2,7 @@
 I'm Carlos Souza! Welcome to my github profile.
 
 ## 🚀 About Me
-- I'm Web developer almost of time with PHP and using framework Laravel with most than 5 years of expirence
+- I'm Web developer almost of time with PHP and using framework Laravel with most than 6 years of expirence
 - Studying to be a Software Enginner, preview to conclusion of course at middle year od 2026
 -With most than three development trainings concluded, I starting a another one in Rocketseat on last year ends ( 2024 )
 - I'm maried since middle of 2018 and on our first daughter has born on begins of 2024.
