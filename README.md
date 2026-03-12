@@ -22,8 +22,15 @@ I'm Carlos Souza! Welcome to my github profile.
 - Good time management
 
 ## 📈 Stats
+
 <p align="center">
   <img src="https://wakatime.com/share/@csouza1995/0bde3e92-2b37-4cc1-a968-7c54ac75790d.svg" alt="drawing"/>
+</p>
+
+<p align="center">
+  <a href="https://app.rocketseat.com.br/me/souzaca">
+    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=souzaca&type=card" width="280" alt="Carlos Souza's Rocket ID"/>
+  </a>
 </p>
 
 ## 💻 Setup
