@@ -27,12 +27,6 @@ I'm Carlos Souza! Welcome to my github profile.
   <img src="https://wakatime.com/share/@csouza1995/0bde3e92-2b37-4cc1-a968-7c54ac75790d.svg" alt="drawing"/>
 </p>
 
-<p align="center">
-  <a href="https://app.rocketseat.com.br/me/souzaca">
-    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=souzaca&type=card" width="280" alt="Carlos Souza's Rocket ID"/>
-  </a>
-</p>
-
 ## 💻 Setup
 - Notebook Avell Storm Go
   - Intel i7 13th gen
@@ -46,6 +40,7 @@ I'm Carlos Souza! Welcome to my github profile.
 - Linkedin: [Carlos Souza](https://www.linkedin.com/in/mr-carlos-souza/)
 - Work e-mail: carlossouza.work@gmail.com
 - Personal instagram: [Carlos Alberto](https://www.instagram.com/carlonzon/)
+- Rocketseat Link: [Rocketseat](https://app.rocketseat.com.br/me/souzaca/)
 
 ---
 Thanks for [Tapajyoti Bose](https://github.com/ruppysuppy) to help me how build my own amazing github profile in article [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
